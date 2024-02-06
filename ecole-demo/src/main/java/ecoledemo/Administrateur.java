@@ -10,4 +10,8 @@ public class Administrateur {
     }
 
     // Ajout de getters et des setters si nécessaire.
+    public void setMotDePasse(String motDePasse) {
+        this.motDePasse = motDePasse;
+    }
+
 }
